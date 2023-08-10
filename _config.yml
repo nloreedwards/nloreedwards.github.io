@@ -3,13 +3,13 @@ output:
   html_document:
     includes:
        in_header: google.html
-logo: "/images/google pic.jpeg?raw=true" # your photo (or logo) here
+logo: "/images/headshot.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/nicholas-lore-edwards-3301a8185/"><img src=https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin alt="View LinkedIn Profile" /></a> 
-  <br><br>
   Research Associate - Harvard Business School
   <br><br>
-  Harvard College c/o 2021, Economics and Computer Science.
+  Harvard College c/o 2021. B.A. with concentration in Economics and secondary in Computer Science, High Honors.
+  GPA: 3.9; Relevant Coursework: Fundamentals of Data Science, Econometrics, Linear Algebra, Multivariable Calculus, Corporate Financial Accounting
   <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
