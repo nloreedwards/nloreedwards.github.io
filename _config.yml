@@ -1,4 +1,8 @@
 title: Nick Lore-Edwards # your name (or website title) here
+output:
+  html_document:
+    includes:
+       in_header: google.html
 logo: "/images/google pic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Research Associate - Harvard Business School
