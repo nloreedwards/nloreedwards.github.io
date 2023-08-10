@@ -3,7 +3,7 @@ output:
   html_document:
     includes:
        in_header: google.html
-logo: "/images/headshot.JPG?raw=true" # your photo (or logo) here
+logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/nicholas-lore-edwards-3301a8185/"><img src=https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin alt="View LinkedIn Profile" /></a> 
   Research Associate - Harvard Business School
