@@ -35,7 +35,7 @@ Using data from USPS and Opportunity Insights, investigated the relationship bet
 #### Why Do We Move: How Did Public Statements and Events Influence US Mobility During the COVID-19 Pandemic? (Undergraduate Thesis)
 Combined granular cellphone location data from SafeGraph with Google search data to understand how interest in public statements correlated with propensity to leave the home during the COVID-19 pandemic
 
-[![](https://img.shields.io/badge/DropBox-View_PDF-0061FF?logo=dropbox)](https://www.dropbox.com/home?preview=Harvard_Econ_Senior_Thesis.pdf)
+[![](https://img.shields.io/badge/DropBox-View_PDF-0061FF?logo=dropbox)](https://www.dropbox.com/s/b2e162xyg2amjis/Harvard_Econ_Senior_Thesis.pdf?dl=0)
 
 <img src="images/thesis-pic.png?raw=true"/>
 
