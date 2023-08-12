@@ -21,14 +21,6 @@ Using data from USPS and Opportunity Insights, investigated the relationship bet
 <img src="images/covid-trends.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Paper Contributions
 
@@ -39,10 +31,13 @@ Combined granular cellphone location data from SafeGraph with Google search data
 
 <img src="images/thesis-pic.png?raw=true"/>
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### The Transmission of Management Practices from Original and Adoptive Parents: Evidence from Spin-outs
+Investigated the transfer of management practices from a parent firm to its subsidiary, finding a significant relationship that persists even after an acquisition by another firm. 
+
+#### The Demand for Executive Skills
+Applied a word-embedding model to group the sentences of C-Suite job ads into six separate skill clusters, finding an increasing relevance of social skills in top managerial positions.
+
+[![](https://img.shields.io/badge/NBER-View_PDF)](https://www.nber.org/papers/w28959)
 
 ---
 
