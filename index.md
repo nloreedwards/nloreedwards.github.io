@@ -36,7 +36,7 @@ Investigated the transfer of management practices from a parent firm to its subs
 
 [comment]: <> ([![](https://img.shields.io/badge/DropBox-View_PDF-0061FF?logo=dropbox)](https://www.dropbox.com/scl/fi/ishtuv3d2girlamcbphh2/GUO-Paper-Excerpt.pdf?rlkey=rj2ppssc1sxa2h9esdjzft9og&dl=0))
 
-<img src="images/GUO_table3.png?raw=true"/>
+[comment]: <> (<img src="images/GUO_table3.png?raw=true"/>)
 
 #### The Demand for Executive Skills
 Applied a word-embedding model to group the sentences of C-Suite job ads into six separate skill clusters, finding an increasing relevance of social skills in top managerial positions.
